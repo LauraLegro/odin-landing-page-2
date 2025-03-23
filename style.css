@@ -22,3 +22,25 @@ header {
     color: #f9faf8;
 }
 
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items:  baseline;
+}
+.nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+}
+.secondary,
+a:link {
+    font-size: 18px;
+    color: #e5e7eb;
+    text-decoration: none;
+}
+.a {
+    color: #fff;
+}
+/*  WELCOME */
+
+
